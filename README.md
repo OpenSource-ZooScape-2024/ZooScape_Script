@@ -78,8 +78,20 @@
 <br>
 
 ## 개발 일지
+
+
+### 2024년 12월 20일
+- **[FIX] Refactor** `g0311` - 리펙토링
+- **[FIX] Refactor** `g0311` - 리펙토링
+
+### 2024년 12월 11일
+- **[FIX] Point Logic & Car Speed** `g0311` - 포인트 로직 및 차 속도 조정
+- **[FIX] SawTrap Movement** `g0311` - 톱 이동 로직 수정
+- **[FIX] Point Logic** `g0311` - 포인트 로직 수정
+- **[ADD] Progress Bar** `g0311` - 진행 상태 UI 추가
+
 ### 2024년 12월 10일
-- **[FIX] Player Force Quit** `g0311` - 디버그 관련 문제 수정
+- **[FIX] Player Force Quit** `g0311` - 플레이어 강제 종료 처리
 - **[MERGE]** `g0311` - `gsy` 브랜치 병합
 - **[FIX] DEBUG** `g0311` - 디버그 관련 문제 수정
 

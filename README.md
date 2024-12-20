@@ -13,6 +13,8 @@
 ## 프로젝트 소개
 <div align="center">
   
+[![Video Label](http://img.youtube.com/vi/0fFHI820DOQ/0.jpg)](https://youtu.be/0fFHI820DOQ?si=EGqeO5iEhiipLUto)
+  
 #### 동물 캐릭터를 기반으로 한 멀티플레이 러닝 액션 게임
 
 <br>
@@ -71,7 +73,7 @@
 <br>
 
 ## 조작 방법
-- **이동**: `W`, `A`, `S`, `D` 키를 사용해 캐릭터를 이동
+- **이동**: `W`, `A`, `S`, `D` 키를 사용해 캐릭터를 이동, `LShift` 키를 이용해 대쉬 
 - **아이템 사용**: `F` 키를 눌러 획득한 아이템을 사용
 - **스킬 사용**: `R` 키를 눌러 캐릭터의 고유 스킬을 발동
 
